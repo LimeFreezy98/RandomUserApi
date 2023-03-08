@@ -14,6 +14,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
+    
+    
 
 }
 
+//gender, location, email, login, registered, dob, phone, cell, id, and nat.
